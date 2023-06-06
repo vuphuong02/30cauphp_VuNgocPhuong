@@ -430,7 +430,7 @@ print_r($myArray);
 
 
 
-echo "<br> Câu 20: ";
+echo "<br> Câu 21: ";
 //cau21: Viết chương trình PHP để tìm số lớn thứ hai trong một mảng.
 function findSecondLargest1($arr)
 {
